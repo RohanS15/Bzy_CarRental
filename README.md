@@ -11,7 +11,7 @@
 <h3>Build with:</h3>
 
 » Sass / Scss <br>
-» React JS
+» ReactJS
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
